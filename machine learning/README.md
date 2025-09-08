@@ -1,9 +1,10 @@
 # Reference Material
 
 ⚠️ **Important Note**  
-This repository contains material that **was not created by me**.  
+This repository contains some material that **was not created by me**.  
 All original content belongs to **Valerio Velardo**.  
-I have only collected these files for study, personal reference, and backup purposes.  
+I have only collected these files for study, exercise, personal reference, and backup purposes.  
+The files are: intensity_and_timbre.py
 
 ---
 
